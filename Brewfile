@@ -426,7 +426,6 @@ cask font-ubuntumono-nerd-font-mono
 
 # App Store applications
 appstore 924726344 Deliveries (3.2.3)
-appstore 975937182 Fantastical (3.0.1)
 appstore 975937182 Fantastical (3.1.4)
 appstore 1351639930 Gifski (2.9.0)
 appstore 639968404 Parcel (6.4)
