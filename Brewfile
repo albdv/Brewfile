@@ -511,7 +511,7 @@ cask font-inconsolatalgc-nerd-font
 cask font-inconsolatalgc-nerd-font-mono
 cask font-iosevka-nerd-font-mono
 cask font-jetbrains-mono-nerd-font
-cask font-jetbrains-mono-nerd-font-mono
+cask font-jetbrains-mono-nerd-font
 cask font-lekton-nerd-font-mono
 cask font-liberationmono-nerd-font
 cask font-liberationmono-nerd-font-mono
