@@ -414,8 +414,6 @@ cask wire
 cask wireshark
 cask xnviewmp
 cask zerotier-one
-cask zoom
-cask zoomus
 
 tap alehouse/unofficial
 
