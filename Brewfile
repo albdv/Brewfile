@@ -384,7 +384,6 @@ cask little-snitch
 cask marta
 cask media-converter
 cask micro-snitch
-cask microsoft-teams
 cask netspot
 cask notion
 cask onedrive
