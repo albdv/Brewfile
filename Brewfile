@@ -24,7 +24,6 @@ brew cmake
 brew confuse
 brew curl
 brew direnv
-brew dmg2img
 brew docbook
 brew docbook-xsl
 brew doctl
@@ -41,7 +40,6 @@ brew flac
 brew fontconfig
 brew fping
 brew freetype
-brew frei0r
 brew fribidi
 brew fselect
 brew fx
@@ -339,9 +337,7 @@ cask adium
 cask aerial
 cask airtool
 cask alfred
-cask android-platform-tools
 cask anki
-cask apache-directory-studio
 cask appcleaner
 cask artpip
 cask atom
@@ -371,14 +367,12 @@ cask gpg-suite
 cask hiddenbar
 cask iina
 cask insomnia
-cask intellij-idea-ce
 cask iterm2
 cask java
 cask jetbrains-toolbox
 cask karabiner-elements
 cask keybase
 cask kindle
-cask kvirc
 cask launchcontrol
 cask little-snitch
 cask marta
@@ -388,12 +382,9 @@ cask netspot
 cask notion
 cask pocket-casts
 cask podman
-cask postman
 cask punto-switcher
-cask pycharm-ce
 cask rocket
 cask rq
-cask rsyncosx
 cask send-to-kindle
 cask signal
 cask slack
