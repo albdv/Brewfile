@@ -528,6 +528,7 @@ cask font-ubuntumono-nerd-font
 cask font-ubuntumono-nerd-font-mono
 
 # App Store applications
+appstore 1480070821 Cyph (1.0.73)
 appstore 924726344 Deliveries (3.2.3)
 appstore 975937182 Fantastical (3.1.4)
 appstore 409183694 Keynote (10.1)
