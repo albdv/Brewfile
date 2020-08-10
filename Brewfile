@@ -3,8 +3,8 @@
 
 tap homebrew/core
 brew antibody
-brew archey
 brew aom
+brew archey
 brew aspell
 brew augeas
 brew autoconf
@@ -91,19 +91,19 @@ brew ilmbase
 brew imagemagick
 brew iperf3
 brew iproute2mac
-brew jasper
-brew jid
 brew isl
+brew jasper
 brew jc
+brew jid
 brew jpeg
 brew jq
 brew json-c
 brew krb5
 brew lame
-brew lftp
 brew lazygit
 brew leptonica
 brew lf
+brew lftp
 brew libass
 brew libav
 brew libbluray
@@ -227,8 +227,8 @@ brew sqlite
 brew srt
 brew ssh-audit
 brew ssllabs-scan
-brew starship
 brew sslyze
+brew starship
 brew stow
 brew subnetcalc
 brew tcl-tk
@@ -304,6 +304,8 @@ cask font-inconsolata-go-nerd-font
 cask font-inconsolata-lgc-nerd-font
 cask font-inconsolata-nerd-font
 cask font-iosevka-nerd-font
+cask font-jetbrains-mono
+cask font-jetbrains-mono-nerd-font
 cask font-lekton-nerd-font
 cask font-liberation-nerd-font
 cask font-meslo-lg-nerd-font
@@ -433,7 +435,6 @@ tap getantibody/tap
 tap homebrew-ffmpeg/ffmpeg
 
 tap hudochenkov/sshpass
-brew sshpass
 
 tap jesseduffield/lazygit
 
@@ -510,8 +511,7 @@ cask font-inconsolatago-nerd-font-mono
 cask font-inconsolatalgc-nerd-font
 cask font-inconsolatalgc-nerd-font-mono
 cask font-iosevka-nerd-font-mono
-cask font-jetbrains-mono-nerd-font
-cask font-jetbrains-mono-nerd-font
+cask font-jetbrainsmono-nerd-font
 cask font-lekton-nerd-font-mono
 cask font-liberationmono-nerd-font
 cask font-liberationmono-nerd-font-mono
