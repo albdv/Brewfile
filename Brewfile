@@ -4,48 +4,67 @@
 tap homebrew/core
 brew antibody
 brew archey
+brew aom
 brew aspell
 brew augeas
 brew autoconf
+brew bandwhich
 brew bash
 brew bat
+brew bettercap
+brew bmon
 brew boost
+brew broot
 brew bwctl
 brew bzip2
 brew cairo
 brew cheat
 brew chezmoi
 brew cmake
+brew confuse
 brew curl
 brew direnv
 brew dmg2img
+brew docbook
+brew docbook-xsl
 brew doctl
+brew dos2unix
 brew dust
+brew e2fsprogs
 brew exa
 brew faac
 brew fd
 brew fdk-aac
 brew figlet
 brew findutils
+brew flac
 brew fontconfig
 brew fping
 brew freetype
+brew frei0r
 brew fribidi
 brew fselect
 brew fx
+brew fzf
 brew gawk
 brew gd
 brew gdbm
 brew geoip
 brew gettext
 brew gh
+brew ghostscript
+brew giflib
 brew gist
 brew git
+brew git-delta
+brew git-filter-repo
 brew git-lfs
 brew git-secrets
+brew glances
 brew glib
 brew glib-networking
 brew gmp
+brew gnu-getopt
 brew gnu-sed
 brew gnutls
 brew go
@@ -58,64 +77,89 @@ brew gsettings-desktop-schemas
 brew gts
 brew gzip
 brew harfbuzz
+brew hashcat
+brew hcxtools
 brew hopenpgp-tools
 brew htop
 brew httperf
+brew httpie
 brew httping
 brew httpstat
 brew hyperfine
 brew icu4c
 brew ilmbase
+brew imagemagick
 brew iperf3
 brew iproute2mac
 brew jasper
 brew jid
+brew isl
+brew jc
 brew jpeg
 brew jq
 brew json-c
 brew krb5
 brew lame
 brew lftp
+brew lazygit
+brew leptonica
+brew lf
+brew libass
 brew libav
+brew libbluray
 brew libde265
 brew libdnet
 brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libheif
 brew libiconv
 brew libidn
 brew libidn2
+brew liblqr
+brew libmpc
 brew libogg
 brew libomp
 brew libpng
 brew libpq
+brew libsamplerate
+brew libsndfile
 brew libsodium
+brew libsoxr
 brew libssh2
 brew libtasn1
 brew libtiff
 brew libtool
 brew libunistring
 brew libusb
+brew libuv
+brew libvidstab
 brew libvorbis
 brew libvpx
+brew libxml2
 brew libyaml
 brew libyubikey
 brew libzip
 brew little-cms2
 brew locateme
+brew lsd
 brew lsusb
 brew lua
 brew lynis
 brew lynx
 brew lzo
 brew m-cli
+brew magic-wormhole
 brew mas
 brew maven
 brew megatools
 brew micro
+brew mkcert
 brew mpfr
 brew mtr
+brew mycli
+brew navi
 brew ncdu
 brew ncftp
 brew ncurses
@@ -128,6 +172,7 @@ brew nnn
 brew node
 brew onefetch
 brew oniguruma
+brew opencore-amr
 brew openexr
 brew openjdk
 brew openjpeg
@@ -145,10 +190,15 @@ brew pinentry-mac
 brew pipx
 brew pixman
 brew pkg-config
+brew procs
+brew protobuf
+brew pssh
+brew pwgen
 brew pyenv
 brew pyenv-virtualenv
 brew python@3.8
 brew ranger
+brew rargs
 brew rbenv
 brew readline
 brew redis
@@ -156,24 +206,36 @@ brew restic
 brew ripgrep
 brew rlwrap
 brew rtmpdump
+brew rubberband
 brew ruby
 brew ruby-build
 brew rust
 brew rustup-init
 brew s-lang
 brew screen
+brew screenresolution
 brew sdl
+brew sdl2
+brew shared-mime-info
 brew shellcheck
 brew shfmt
+brew sk
+brew snappy
 brew speedtest-cli
+brew speex
 brew sqlite
+brew srt
+brew ssh-audit
 brew ssllabs-scan
 brew starship
+brew sslyze
 brew stow
 brew subnetcalc
 brew tcl-tk
 brew telnet
+brew tesseract
 brew testssl
+brew tflint
 brew theora
 brew tig
 brew tin
@@ -182,15 +244,21 @@ brew tokei
 brew trash
 brew tree
 brew unbound
+brew vim
+brew watch
 brew webp
 brew wget
+brew wimlib
 brew wireguard-go
 brew wireguard-tools
 brew x264
 brew x265
+brew xmlto
 brew xvid
 brew xz
 brew ykpers
+brew youtube-dl
+brew zenith
 brew zip
 brew zlib
 brew zmap
@@ -259,6 +327,7 @@ cask font-ubuntu-nerd-font
 cask font-victor-mono-nerd-font
 
 tap homebrew/cask-versions
+cask adoptopenjdk8
 
 tap homebrew/services
 
@@ -266,16 +335,21 @@ tap homebrew/cask
 cask 1password
 cask adium
 cask aerial
+cask airtool
 cask alfred
 cask android-platform-tools
 cask anki
+cask apache-directory-studio
 cask appcleaner
 cask artpip
 cask atom
 cask balenaetcher
 cask bitbar
 cask brooklyn
+cask calibre
 cask cheatsheet
+cask clean-me
+cask commander-one
 cask cryptomator
 cask cyberduck
 cask dash
@@ -292,16 +366,26 @@ cask fliqlo
 cask flux
 cask go64
 cask gpg-suite
+cask hiddenbar
 cask iina
 cask insomnia
+cask intellij-idea-ce
 cask iterm2
 cask java
+cask jetbrains-toolbox
+cask karabiner-elements
 cask keybase
 cask kindle
+cask kvirc
+cask launchcontrol
 cask little-snitch
+cask marta
+cask media-converter
 cask micro-snitch
+cask microsoft-teams
 cask netspot
 cask notion
+cask onedrive
 cask pocket-casts
 cask podman
 cask postman
@@ -326,27 +410,45 @@ cask virtualbox
 cask visual-studio-code
 cask vlc
 cask whatsapp
+cask wifi-explorer
 cask wire
 cask wireshark
 cask xnviewmp
 cask zerotier-one
+cask zoom
+cask zoomus
 
 tap alehouse/unofficial
 
 tap cjbassi/gotop
 
+tap cristianoliveira/tap
+brew funzzy
+
+## Direct install
+brew sshpass
+
 tap getantibody/tap
+
+tap homebrew-ffmpeg/ffmpeg
 
 tap hudochenkov/sshpass
 brew sshpass
+
+tap jesseduffield/lazygit
 
 tap jzelinskie/faq
 brew faq
 
 tap minio/stable
 
+tap pokanop/pokanop
+brew nostromo
+
 tap rcmdnk/file
 brew brew-file
+
+tap rigellute/tap
 
 tap rs/tap
 brew curlie
@@ -356,7 +458,10 @@ tap sambadevi/powerlevel9k
 tap schollz/tap
 brew croc
 
+tap sidaf/pentest
+
 tap timothyye/tap
+brew skm
 
 tap warrensbox/tap
 brew tfswitch
@@ -370,11 +475,18 @@ cask font-3270-nerd-font-mono
 cask font-anonymouspro-nerd-font
 cask font-anonymouspro-nerd-font-mono
 cask font-arimo-nerd-font-mono
+cask font-aurulentsansmono-nerd-font
+cask font-aurulentsansmono-nerd-font-mono
+cask font-bitstreamverasansmono-nerd-font
 cask font-bitstreamverasansmono-nerd-font-mono
+cask font-cascadia-nerd-font
+cask font-cascadia-nerd-font-mono
 cask font-codenewroman-nerd-font
 cask font-codenewroman-nerd-font-mono
 cask font-cousine-nerd-font-mono
+cask font-dejavusansmono-nerd-font
 cask font-dejavusansmono-nerd-font-mono
+cask font-droidsansmono-nerd-font
 cask font-droidsansmono-nerd-font-mono
 cask font-fantasquesansmono-nerd-font
 cask font-fantasquesansmono-nerd-font-mono
@@ -388,11 +500,14 @@ cask font-gohu-nerd-font-mono
 cask font-hack-nerd-font-mono
 cask font-hasklig-nerd-font
 cask font-hasklig-nerd-font-mono
+cask font-heavydata-nerd-font
 cask font-heavydata-nerd-font-mono
 cask font-hermit-nerd-font
 cask font-hermit-nerd-font-mono
 cask font-inconsolata-nerd-font-mono
+cask font-inconsolatago-nerd-font
 cask font-inconsolatago-nerd-font-mono
+cask font-inconsolatalgc-nerd-font
 cask font-inconsolatalgc-nerd-font-mono
 cask font-iosevka-nerd-font-mono
 cask font-jetbrains-mono-nerd-font
@@ -411,24 +526,30 @@ cask font-noto-nerd-font-mono
 cask font-profont-nerd-font-mono
 cask font-proggyclean-nerd-font
 cask font-proggyclean-nerd-font-mono
+cask font-robotomono-nerd-font
 cask font-robotomono-nerd-font-mono
 cask font-sharetechmono-nerd-font
 cask font-sharetechmono-nerd-font-mono
 cask font-sourcecodepro-nerd-font
 cask font-sourcecodepro-nerd-font-mono
+cask font-spacemono-nerd-font
 cask font-spacemono-nerd-font-mono
 cask font-terminus-nerd-font
 cask font-terminus-nerd-font-mono
 cask font-tinos-nerd-font-mono
 cask font-ubuntu-nerd-font-mono
+cask font-ubuntumono-nerd-font
 cask font-ubuntumono-nerd-font-mono
 
 # App Store applications
 appstore 924726344 Deliveries (3.2.3)
 appstore 975937182 Fantastical (3.1.4)
-appstore 1351639930 Gifski (2.9.0)
-appstore 639968404 Parcel (6.4)
+appstore 409183694 Keynote (10.1)
+appstore 1464122853 NextDNS (1.4.3)
+appstore 409203825 Numbers (10.1)
+appstore 409201541 Pages (10.1)
 appstore 1449412482 Reeder (4.2.5)
-appstore 904280696 Things (3.12.5)
+appstore 904280696 Things (3.12.6)
 appstore 557168941 Tweetbot (2.5.8)
 appstore 1482454543 Twitter (8.30)
+appstore 447521961 XChat Azure (1.18.11)
