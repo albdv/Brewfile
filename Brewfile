@@ -400,7 +400,6 @@ cask signal
 cask slack
 cask spectacle
 cask spotify
-cask sublime-text
 cask telegram-desktop
 cask the-unarchiver
 cask transmission
