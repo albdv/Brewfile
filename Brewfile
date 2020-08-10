@@ -386,7 +386,6 @@ cask media-converter
 cask micro-snitch
 cask netspot
 cask notion
-cask onedrive
 cask pocket-casts
 cask podman
 cask postman
