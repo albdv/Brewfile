@@ -157,6 +157,8 @@ brew mkcert
 brew mpfr
 brew mtr
 brew mycli
+brew mydumper
+brew mysql-client
 brew navi
 brew ncdu
 brew ncftp
@@ -352,6 +354,7 @@ cask commander-one
 cask cryptomator
 cask cyberduck
 cask dash
+cask dbeaver-community
 cask deepl
 cask developerexcuses
 cask discord
