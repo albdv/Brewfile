@@ -219,6 +219,7 @@ brew shellcheck
 brew shfmt
 brew sk
 brew snappy
+brew so
 brew speedtest-cli
 brew speex
 brew sqlite
