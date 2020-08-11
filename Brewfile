@@ -362,6 +362,7 @@ cask firefox
 cask flash-player
 cask fliqlo
 cask flux
+cask gitify
 cask go64
 cask gpg-suite
 cask hiddenbar
