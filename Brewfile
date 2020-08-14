@@ -412,6 +412,7 @@ cask wire
 cask wireshark
 cask xnviewmp
 cask zerotier-one
+cask zoomus
 
 tap alehouse/unofficial
 
