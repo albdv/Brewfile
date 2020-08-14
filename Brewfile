@@ -345,6 +345,7 @@ cask appcleaner
 cask artpip
 cask atom
 cask balenaetcher
+cask bartender
 cask bitbar
 cask brooklyn
 cask calibre
@@ -372,6 +373,7 @@ cask gpg-suite
 cask hiddenbar
 cask iina
 cask insomnia
+cask istat-menus
 cask iterm2
 cask java
 cask jetbrains-toolbox
