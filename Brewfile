@@ -24,6 +24,7 @@ brew cmake
 brew confuse
 brew curl
 brew direnv
+brew dmg2img
 brew docbook
 brew docbook-xsl
 brew doctl
@@ -340,6 +341,7 @@ cask adium
 cask aerial
 cask airtool
 cask alfred
+cask android-platform-tools
 cask anki
 cask appcleaner
 cask artpip
@@ -389,14 +391,17 @@ cask netspot
 cask notion
 cask pocket-casts
 cask podman
+cask postman
 cask punto-switcher
 cask rocket
 cask rq
+cask rsyncosx
 cask send-to-kindle
 cask signal
 cask slack
 cask spectacle
 cask spotify
+cask sublime-text
 cask telegram-desktop
 cask the-unarchiver
 cask transmission
@@ -421,14 +426,12 @@ tap cjbassi/gotop
 tap cristianoliveira/tap
 brew funzzy
 
-## Direct install
-brew sshpass
-
 tap getantibody/tap
 
 tap homebrew-ffmpeg/ffmpeg
 
 tap hudochenkov/sshpass
+brew sshpass
 
 tap jesseduffield/lazygit
 
@@ -470,18 +473,11 @@ cask font-3270-nerd-font-mono
 cask font-anonymouspro-nerd-font
 cask font-anonymouspro-nerd-font-mono
 cask font-arimo-nerd-font-mono
-cask font-aurulentsansmono-nerd-font
-cask font-aurulentsansmono-nerd-font-mono
-cask font-bitstreamverasansmono-nerd-font
 cask font-bitstreamverasansmono-nerd-font-mono
-cask font-cascadia-nerd-font
-cask font-cascadia-nerd-font-mono
 cask font-codenewroman-nerd-font
 cask font-codenewroman-nerd-font-mono
 cask font-cousine-nerd-font-mono
-cask font-dejavusansmono-nerd-font
 cask font-dejavusansmono-nerd-font-mono
-cask font-droidsansmono-nerd-font
 cask font-droidsansmono-nerd-font-mono
 cask font-fantasquesansmono-nerd-font
 cask font-fantasquesansmono-nerd-font-mono
@@ -495,17 +491,15 @@ cask font-gohu-nerd-font-mono
 cask font-hack-nerd-font-mono
 cask font-hasklig-nerd-font
 cask font-hasklig-nerd-font-mono
-cask font-heavydata-nerd-font
 cask font-heavydata-nerd-font-mono
 cask font-hermit-nerd-font
 cask font-hermit-nerd-font-mono
 cask font-inconsolata-nerd-font-mono
-cask font-inconsolatago-nerd-font
 cask font-inconsolatago-nerd-font-mono
-cask font-inconsolatalgc-nerd-font
 cask font-inconsolatalgc-nerd-font-mono
 cask font-iosevka-nerd-font-mono
 cask font-jetbrainsmono-nerd-font
+cask font-jetbrainsmono-nerd-font-mono
 cask font-lekton-nerd-font-mono
 cask font-liberationmono-nerd-font
 cask font-liberationmono-nerd-font-mono
@@ -520,31 +514,30 @@ cask font-noto-nerd-font-mono
 cask font-profont-nerd-font-mono
 cask font-proggyclean-nerd-font
 cask font-proggyclean-nerd-font-mono
-cask font-robotomono-nerd-font
 cask font-robotomono-nerd-font-mono
 cask font-sharetechmono-nerd-font
 cask font-sharetechmono-nerd-font-mono
 cask font-sourcecodepro-nerd-font
 cask font-sourcecodepro-nerd-font-mono
-cask font-spacemono-nerd-font
 cask font-spacemono-nerd-font-mono
 cask font-terminus-nerd-font
 cask font-terminus-nerd-font-mono
 cask font-tinos-nerd-font-mono
 cask font-ubuntu-nerd-font-mono
-cask font-ubuntumono-nerd-font
 cask font-ubuntumono-nerd-font-mono
 
 # App Store applications
 appstore 1480070821 Cyph (1.0.73)
 appstore 924726344 Deliveries (3.2.3)
 appstore 975937182 Fantastical (3.1.4)
+appstore 1351639930 Gifski (2.9.0)
 appstore 409183694 Keynote (10.1)
 appstore 1464122853 NextDNS (1.4.3)
 appstore 409203825 Numbers (10.1)
 appstore 409201541 Pages (10.1)
+appstore 639968404 Parcel (6.4)
 appstore 1449412482 Reeder (4.2.5)
 appstore 904280696 Things (3.12.6)
 appstore 557168941 Tweetbot (2.5.8)
-appstore 1482454543 Twitter (8.31)
+appstore 1482454543 Twitter (8.30)
 appstore 447521961 XChat Azure (1.18.11)
