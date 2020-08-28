@@ -158,8 +158,6 @@ brew mkcert
 brew mpfr
 brew mtr
 brew mycli
-brew mydumper
-brew mysql-client
 brew navi
 brew ncdu
 brew ncftp
@@ -191,6 +189,7 @@ brew pinentry-mac
 brew pipx
 brew pixman
 brew pkg-config
+brew podman
 brew procs
 brew protobuf
 brew pssh
@@ -218,6 +217,7 @@ brew screenresolution
 brew sdl
 brew sdl2
 brew shared-mime-info
+brew sheldon
 brew shellcheck
 brew shfmt
 brew sk
@@ -269,6 +269,7 @@ brew zsh
 tap homebrew/bundle
 
 tap homebrew/cask-drivers
+cask logitech-options
 cask synology-drive
 cask yubico-yubikey-manager
 cask yubico-yubikey-personalization-gui
@@ -337,15 +338,12 @@ tap homebrew/services
 
 tap homebrew/cask
 cask 1password
-cask adium
 cask aerial
 cask airtool
 cask alfred
-cask android-platform-tools
 cask anki
+cask app-cleaner
 cask appcleaner
-cask artpip
-cask atom
 cask balenaetcher
 cask bartender
 cask bitbar
@@ -353,20 +351,17 @@ cask brooklyn
 cask calibre
 cask cheatsheet
 cask clean-me
-cask commander-one
 cask cryptomator
 cask cyberduck
 cask dash
-cask dbeaver-community
 cask deepl
 cask developerexcuses
-cask discord
 cask docker
 cask dropbox
 cask duet
 cask epoch-flip-clock
+cask etrecheckpro
 cask firefox
-cask flash-player
 cask fliqlo
 cask flux
 cask gitify
@@ -386,6 +381,7 @@ cask launchcontrol
 cask little-snitch
 cask marta
 cask media-converter
+cask meld
 cask micro-snitch
 cask netspot
 cask notion
@@ -413,7 +409,6 @@ cask visual-studio-code
 cask vlc
 cask whatsapp
 cask wifi-explorer
-cask wire
 cask wireshark
 cask xnviewmp
 cask zerotier-one
@@ -529,7 +524,8 @@ cask font-ubuntumono-nerd-font-mono
 # App Store applications
 appstore 1480070821 Cyph (1.0.73)
 appstore 924726344 Deliveries (3.2.3)
-appstore 975937182 Fantastical (3.1.4)
+appstore 1435957248 Drafts (21.2.3)
+appstore 975937182 Fantastical (3.1.5)
 appstore 1351639930 Gifski (2.9.0)
 appstore 409183694 Keynote (10.1)
 appstore 1464122853 NextDNS (1.4.3)
@@ -539,5 +535,5 @@ appstore 639968404 Parcel (6.4)
 appstore 1449412482 Reeder (4.2.5)
 appstore 904280696 Things (3.12.6)
 appstore 557168941 Tweetbot (2.5.8)
-appstore 1482454543 Twitter (8.30)
+appstore 1482454543 Twitter (8.32)
 appstore 447521961 XChat Azure (1.18.11)
