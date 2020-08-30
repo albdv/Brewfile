@@ -8,6 +8,7 @@ brew archey
 brew aspell
 brew augeas
 brew autoconf
+brew awscli
 brew bandwhich
 brew bash
 brew bat
@@ -193,6 +194,7 @@ brew podman
 brew procs
 brew protobuf
 brew pssh
+brew pulumi
 brew pwgen
 brew pyenv
 brew pyenv-virtualenv
@@ -386,7 +388,6 @@ cask micro-snitch
 cask netspot
 cask notion
 cask pocket-casts
-cask podman
 cask postman
 cask punto-switcher
 cask rocket
@@ -520,6 +521,7 @@ cask font-terminus-nerd-font-mono
 cask font-tinos-nerd-font-mono
 cask font-ubuntu-nerd-font-mono
 cask font-ubuntumono-nerd-font-mono
+cask podman
 
 # App Store applications
 appstore 1480070821 Cyph (1.0.73)
